@@ -21,4 +21,4 @@ A modern and customizable resume builder built with Next.js and React.js.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/reinskywalker/nextjs-react-resume-builder.git
+   git clone https://github.com/your-username/nextjs-react-resume-builder.git
